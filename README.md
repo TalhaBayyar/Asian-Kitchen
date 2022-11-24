@@ -5,4 +5,4 @@
 
 
 
-[patika.dev]([https://eff.org](https://app.patika.dev/paths))
+[patika.dev](https://app.patika.dev/paths)
